@@ -1,0 +1,5 @@
+.godot/
+godot-cpp/
+*.os
+*.so
+*.dblite
